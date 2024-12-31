@@ -69,7 +69,7 @@ _I'd love for you to make the most of this project - it's all about learning, he
    > [BACKEND] Database connected: mongodb://127.0.0.1/wanderlust
    > ```
 
-### Setting up the Frontend
+### Setting up a Frontend
 
 1. **Open a New Terminal**
 
